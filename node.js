@@ -13,6 +13,8 @@ console.log(tres)
 console.log(process.arch
 
 )
+
+consolé.log(procesos.version)
 console.log(process.version)
 console.log(process.versions.zlib)
 
